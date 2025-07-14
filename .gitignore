@@ -1,0 +1,6 @@
+# Environment
+credit_scoring/
+
+# Python cache
+__pycache__/
+*.pyc
